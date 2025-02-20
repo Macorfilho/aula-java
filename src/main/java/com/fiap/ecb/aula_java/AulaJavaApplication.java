@@ -1,4 +1,4 @@
-package com.fiap._ecb.aula_java;
+package com.fiap.ecb.aula_java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
